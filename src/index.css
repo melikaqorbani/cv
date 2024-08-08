@@ -16,3 +16,28 @@
 body {
   font-family: 'Kook', sans-serif;
 }
+
+.main-background{
+  background-color: #E6E4D7;
+}
+.background-overlay{
+background-color: #F9F3DF;
+}
+.text-red{
+  color: #C13720;
+}
+.back-red{
+  background-color: #C13720;
+}
+.container {
+  max-width: 1280px; /* یا هر مقدار دیگری که مناسب باشد */
+  margin: 0 auto;
+  padding: 0 1rem; /* فاصله از لبه‌ها */
+}
+.exprience-col{
+  height: 560px;
+}
+.content {
+  padding: 2rem; /* فاصله داخلی اضافی برای راحتی بیشتر */
+}
+
